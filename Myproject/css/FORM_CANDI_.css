@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    word-wrap: break-word;
+    overflow: break-word;
+    text-align: center;
+    background-color: #F2B6D2;
+}
+
+h1,
+h3 {
+    color: #66068E;
+    text-align: center;
+}
+
+input,
+select {
+    text-align: center;
+    background-color: #ffa9c0;
+    border-color: #BF045B;
+    color: #8C0B77;
+}
+
+h5 {
+    text-align: center;
+    color: #590C3E;
+}
